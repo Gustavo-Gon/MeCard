@@ -17,4 +17,4 @@ struct ContactView: View {
             MenuButton(showDropdown: $showDropdown)
         }
     }
-}
+} 

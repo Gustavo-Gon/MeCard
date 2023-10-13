@@ -1,3 +1,3 @@
 # MeCard
-A person app about me. 
+A person app about me using Swift on Xcode.
 

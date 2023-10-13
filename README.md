@@ -1,2 +1,3 @@
 # MeCard
-Person App
+A person app about me. 
+
